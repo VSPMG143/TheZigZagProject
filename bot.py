@@ -28,7 +28,7 @@ execfile("config.py")
 # START OF CODES. DO NOT EDIT ANYTHING IF YOU DONT KNOW WHAT ARE YOU DOING!#
 ############################################################################
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(1415690822:AAG_5GZ-b1u-4rQ0jSCGxSRPaq19H65ErQ4)
 # LOGFILE
 logfile = open("bot.log", "a")
 time = datetime.datetime.now()
